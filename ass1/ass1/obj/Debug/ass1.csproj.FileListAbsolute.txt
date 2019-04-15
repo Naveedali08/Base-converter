@@ -1,0 +1,9 @@
+c:\users\naveed ali mandanr\documents\visual studio 2017\Projects\ass1\ass1\bin\Debug\ass1.exe.config
+c:\users\naveed ali mandanr\documents\visual studio 2017\Projects\ass1\ass1\bin\Debug\ass1.exe
+c:\users\naveed ali mandanr\documents\visual studio 2017\Projects\ass1\ass1\bin\Debug\ass1.pdb
+c:\users\naveed ali mandanr\documents\visual studio 2017\Projects\ass1\ass1\obj\Debug\ass1.csprojResolveAssemblyReference.cache
+c:\users\naveed ali mandanr\documents\visual studio 2017\Projects\ass1\ass1\obj\Debug\ass1.Form1.resources
+c:\users\naveed ali mandanr\documents\visual studio 2017\Projects\ass1\ass1\obj\Debug\ass1.Properties.Resources.resources
+c:\users\naveed ali mandanr\documents\visual studio 2017\Projects\ass1\ass1\obj\Debug\ass1.csproj.GenerateResource.Cache
+c:\users\naveed ali mandanr\documents\visual studio 2017\Projects\ass1\ass1\obj\Debug\ass1.exe
+c:\users\naveed ali mandanr\documents\visual studio 2017\Projects\ass1\ass1\obj\Debug\ass1.pdb
